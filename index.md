@@ -1,14 +1,7 @@
+# Carlos Eduardo Durán Fernández
 
-<!-- saved from url=(0030)http://people.ufpr.br/~cduran/ -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+[Departamento de Matemática](http://www.mat.ufpr.br/)
 
-<title>Homepage de Carlos Eduardo Durán Fernández</title></head><body>
-<p>   
-   </p><h1>Carlos Eduardo Durán Fernández </h1>
-<p></p> 
- 
-<p>
-<a href="http://www.mat.ufpr.br/">Departamento de Matemática,&nbsp;</a>&nbsp;
 <a href="http://www.ufpr.br/">Universidade Federal do Paraná. </a>
 </p>
 
